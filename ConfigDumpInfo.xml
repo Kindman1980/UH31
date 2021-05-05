@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Configuration.VersionControl_SSC" id="60ee4c64-3072-4b70-8265-585d4c70c208" configVersion="e59117d96070b83ee3471d6a237881ace9852d13"/>
+		<Metadata name="DataProcessor.РаботаСВерсиямиБюджета" id="3fc150b9-3093-4e6b-bb5c-00f110c2fd58" configVersion="fdee3f45e4c26e2390ae445fb11b5ce240572e51">
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ПериодОтчета" id="003bf4a7-ec39-4a07-8b75-01fa3a666775"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Attribute.Организация" id="309e8448-68b7-4f7a-8f22-66ea6daa47a2"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ИдентификаторСеанса" id="3611f05a-6251-4980-923f-d60b8dc2879a"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Attribute.ВидОтчета" id="4b71f405-e309-4cef-8840-e1175532fe09"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Attribute.УправлениеПериодомСценария" id="7332c651-dfe6-4e4d-bb02-c9b47a1555f5"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ЧерноваяВерсия" id="77315633-6aa4-4898-8ee5-f8a8488eba4a"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ВерсияЗП" id="800a54d4-ec61-408a-b4e8-46d1ececf33e"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ЕстьЗПО" id="82734c23-b019-4747-bf8f-c2fd143775df"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Attribute.ЭкземплярОтчета" id="876c73c4-8a08-41f6-bbb9-4a95fe8e7876"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ОсновнаяВерсия" id="881620bd-eb09-466a-b5fb-ed328ad4b16f"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ОписаниеВерсий" id="9ec49838-65dd-4b37-910c-2a7750aec067"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.отметка" id="9ff9ae4e-17ff-4ef7-b1da-384e2f46cab7"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей" id="a160b01b-b0fc-446d-aa36-eec77af3a3e2"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.Организация" id="cc68a952-8107-461f-be06-fc05bafabfa3"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ЭкземплярОтчета" id="ed9fe746-8125-4441-be5c-f2ce5fb238a8"/>
+			<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.TabularSection.ТЧВерсииЗначенийПоказателей.Attribute.ВидОтчета" id="fdbace54-8869-48ac-9b24-09515760e80f"/>
+		</Metadata>
+		<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Form.Форма" id="0f86f1da-ef4f-48a2-83de-9c0d21a63b31" configVersion="0f38df0840e748e62a86d79e0de91d6802303a97"/>
+		<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Form.Форма.Form" id="0f86f1da-ef4f-48a2-83de-9c0d21a63b31.0" configVersion="beb15bd99f2b9e5f469f52a9e220b4624f3ff1ad"/>
+		<Metadata name="DataProcessor.РаботаСВерсиямиБюджета.Help" id="3fc150b9-3093-4e6b-bb5c-00f110c2fd58.1" configVersion="634e5ff3682eeaed4934c34d66e88ecd777da47a"/>
+		<Metadata name="Language.Русский" id="e638c578-dcba-41fe-bc83-e859c06ac13f" configVersion="f6935da4b2144a186f75afb44a5da5cccb4606f0"/>
+		<Metadata name="Role.КонтрольВерсий_ОсновнаяРоль" id="fb682733-74f4-4bab-82e2-b6b25b27a41f" configVersion="9820091526b520ba4d0f596f0cf0ed07aecfd19c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
