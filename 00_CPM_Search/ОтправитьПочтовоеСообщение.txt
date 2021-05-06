@@ -1,0 +1,9 @@
+﻿D:\CPM_3_1_7_2\CommonForms\ОтправкаСообщенияБП\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\CommonForms\ОтправкаСообщения\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\СверкаДанныхУчетаНДС\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ОбращениеВТехническуюПоддержку\Forms\ОбращениеВПоддержку\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РассылкаЭлектронныхЧеков\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РассылкаОтчетов\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РаботаСПочтовымиСообщениями\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОтправкаПочтовыхСообщений\Ext\Module.bsl
+время поиска (секунд): 22

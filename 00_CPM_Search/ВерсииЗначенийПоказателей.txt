@@ -1,0 +1,47 @@
+﻿D:\CPM_3_1_7_2\Catalogs\ОписаниеВерсий\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Catalogs\Запросы\Forms\ФормаЭлементаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Catalogs\ВидыОтчетов\Forms\ФормаЭлемента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Catalogs\ВидыОтчетов\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Catalogs\ВерсииЗначенийПоказателей\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Reports\СценарныйАнализ\Forms\ФормаОтчетаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Reports\ОтчетОКорректировках\Forms\ФормаОтчетаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\УправлениеПериодомСценария\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\ТрансформационнаяКорректировка\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\Трансляция\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\РучныеКорректировки\Forms\ФормаУрегулированиеУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\РучныеКорректировки\Forms\ФормаДокументаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\РучныеКорректировки\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\РасчетСебестоимости\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаДокументаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаАналитическойТаблицы\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ГрупповоеИзменениеПоказателей\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\КорректировкаЗначенийПоказателей\Forms\ФормаДокумента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\СводнаяТаблица\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\СверткаВерсий\Forms\ФормаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\СверкаВГО\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ПолучениеДанныхДляСверкиЭлиминации\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ПереносПоказателейОтчетов\Forms\Форма\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\КорректировкиЗначенийПоказателей\Forms\ФормаДокумента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\КорректировкиЗначенийПоказателей\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\КорректировкиЗначенийПоказателей\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ЗаписьПоказателяСРасчетомЗависимых\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ЗаписьПоказателяСРасчетомЗависимых\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ДвиженияДокумента\Forms\ОсновнаяФорма\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\ГрупповоеРедактированиеЭкземпляровОтчета\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\АналитическийБланк\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\АктуализацияБюджетов\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеПроцессамиСогласованияУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеОтчетамиУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ТрансформационныеКорректировкиУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\СводнаяТаблицаУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ПересчетПоказателейУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОбщегоНазначенияУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОбновлениеИнформационнойБазыУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\МСФОВызовСервераУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\МодульУправленияПроцессамиУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ДвиженияБюджетированиеУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\АналитическийБланкУХСервер\Ext\Module.bsl
+D:\OneDrive\_2021\103_ОЦО\Sprints\week 1\ЦСО_Бюджетирование\CommonModules\УправлениеОтчетамиУХ\Ext\Module.bsl
+D:\OneDrive\_2021\103_ОЦО\Sprints\week 1\ЦСО_Бюджетирование\Documents\НастраиваемыйОтчет\Forms\ФормаПроверкиИОчисткиДанныхДокумента\Ext\Form\Module.bsl
+время поиска (секунд): 9

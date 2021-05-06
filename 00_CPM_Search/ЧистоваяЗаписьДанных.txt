@@ -1,0 +1,7 @@
+﻿D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаАналитическойТаблицы\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\ЗаписьПоказателяСРасчетомЗависимых\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\ЗаписьПоказателяСРасчетомЗависимых\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеОтчетамиУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\СводнаяТаблицаУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\АналитическийБланкУХСервер\Ext\Module.bsl
+время поиска (секунд): 9

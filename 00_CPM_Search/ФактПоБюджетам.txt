@@ -1,0 +1,7 @@
+﻿D:\CPM_3_1_7_2\Catalogs\ПравилаОбработки\Forms\ФормаЭлемента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Catalogs\ВидыОтчетов\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\InformationRegisters\ПараметрыОперативногоПланирования\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\ОтражениеФактическихДанныхБюджетирования\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\ОтражениеФактическихДанныхБюджетирования\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\CommonModules\ДвиженияБюджетированиеУХ\Ext\Module.bsl
+время поиска (секунд): 11

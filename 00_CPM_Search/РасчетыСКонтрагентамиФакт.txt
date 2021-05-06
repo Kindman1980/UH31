@@ -1,0 +1,18 @@
+﻿D:\CPM_3_1_7_2\Documents\РегистрацияОтчетаОЗаключенныхДоговорах\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\РегистрацияОбъемаЗакупокУМСП\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\ПоступлениеВекселя\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\ОтражениеФактическихДанныхБюджетирования\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\НачисленияПоФинансовымИнструментам\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\КорректировкаНачальныхОстатков\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\ВыбытиеВекселей\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\ВерсияСоглашенияКредит\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\АкцептПротестПереводногоВекселя\Forms\ФормаДокумента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\АкцептПротестПереводногоВекселя\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\DataProcessors\УправлениеОтклонениями\Forms\Форма\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РаботаСДоговорамиКонтрагентовУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОптимизацияПлатежногоКалендаря\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОбновлениеИнформационнойБазыУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\МодульОбработкиЭтаповПроцессовСерверУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\КонтрольУХПереопределяемый\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\КонтрольУХВзаиморасчетыПоДоговору\Ext\Module.bsl
+время поиска (секунд): 10

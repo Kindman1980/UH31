@@ -1,0 +1,5 @@
+﻿D:\CPM_3_1_7_2\DataProcessors\ПереносПоказателейОтчетов\Forms\Форма\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\КорректировкиЗначенийПоказателей\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеОтчетамиУХ\Ext\Module.bsl
+D:\OneDrive\_2021\103_ОЦО\Sprints\week 1\ЦСО_Бюджетирование\CommonModules\УправлениеОтчетамиУХ\Ext\Module.bsl
+время поиска (секунд): 20

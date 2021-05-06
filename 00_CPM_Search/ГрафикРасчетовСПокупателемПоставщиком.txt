@@ -1,0 +1,16 @@
+﻿D:\CPM_3_1_7_2\Catalogs\ДокументыБД\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\ОтражениеФактическихДанныхБюджетирования\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\ГрафикРасчетовСПокупателемПоставщиком\Forms\ФормаДокумента\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\ГрафикРасчетовСПокупателемПоставщиком\Ext\ObjectModule.bsl
+D:\CPM_3_1_7_2\Documents\ГрафикРасчетовСПокупателемПоставщиком\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеЗаявкамиНаОперацииУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РаботаСДоговорамиКонтрагентовУХКлиентСервер\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\РаботаСДоговорамиКонтрагентовУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ПроведениеСерверУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ПроведениеСерверОПК\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОбработчикиОбновленияУХКазначействоПереопределяемый\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ОбработчикиОбновленияУХКазначейство\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ДоговорыКонтрагентовФормыУХКлиентСервер\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ДоговорыКонтрагентовФормыУХКлиент\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ДоговорыКонтрагентовФормыУХ\Ext\Module.bsl
+время поиска (секунд): 21

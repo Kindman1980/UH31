@@ -1,0 +1,4 @@
+﻿D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаДокументаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаАналитическойТаблицы\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\СводнаяТаблица\Forms\ФормаМакетаСводнаяТаблица\Ext\Form\Module.bsl
+время поиска (секунд): 8

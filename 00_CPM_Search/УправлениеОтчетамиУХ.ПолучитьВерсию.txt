@@ -1,0 +1,8 @@
+﻿D:\CPM_3_1_7_2\Catalogs\ВидыОтчетов\Ext\ManagerModule.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаДокументаУправляемая\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\Documents\НастраиваемыйОтчет\Forms\ФормаАналитическойТаблицы\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\DataProcessors\УправлениеПроцессомПодготовкиОтчетности\Forms\Форма\Ext\Form\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\УправлениеПроцессамиСогласованияУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\ПересчетПоказателейУХ\Ext\Module.bsl
+D:\CPM_3_1_7_2\CommonModules\МодульУправленияПроцессамиУХ\Ext\Module.bsl
+время поиска (секунд): 8
